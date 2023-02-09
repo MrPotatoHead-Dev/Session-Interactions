@@ -1,4 +1,4 @@
-# Session-Interactions
+# Session-Interactions-GU
 A script that looks at how time influences a sweep on a previous sessions high / low
 
 The session interaction script creates a .csv file that has the time and date that the session range was broken for further analysis.
